@@ -9,7 +9,10 @@ you need a computer, laptop is better, and macbook is best.
 
 - MacBook Pro
 
-## Tools
+## Enviroment & Tools
+
+You need to find a good place to study for you, it should be satisfiyed to you, the table and the chair. for some reasons, I advice you can choose coding by standing instead of siting for your health. 
+
 - A Table
 - A Chair
 - Some Software
@@ -17,8 +20,10 @@ you need a computer, laptop is better, and macbook is best.
 
 ## Time
 
-reading coding: 30 mins / day
-writing coding: 30 mins / day
+You need Time Management to your course, because it's worth to do that.
+
+- Reading coding: 30 mins / day
+- Writing coding: 30 mins / day
 
 
 ## You
